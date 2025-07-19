@@ -1,3 +1,6 @@
+# AI Image Finder - Required Packages
+# Note: These are auto-installed by the application
+
 PyQt5>=5.15.0
 sentence-transformers>=2.2.0
 faiss-cpu>=1.7.0
